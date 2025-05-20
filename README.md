@@ -1,7 +1,7 @@
 # ESP32-C6 Waveshare with ST7789 1.47 inch TFT display Starter
 Getting started with an **ESP32-C6 Waveshare** device and an 1.47 inch TFT display with driver chip **ST7789**.
 
-This is the accompanying repository for my article "**Getting Started with an ESP32-C6 Waveshare LCD device with 1.47 inch  ST7789 TFT display**":   .
+This is the accompanying repository for my article "**Getting Started with an ESP32-C6 Waveshare LCD device with 1.47 inch  ST7789 TFT display**": https://medium.com/@androidcrypto/getting-started-with-an-esp32-c6-waveshare-lcd-device-with-1-47-inch-st7789-tft-display-07804fdc589a.
 
 The display is a 1.47 inch large TFT display with 172 x 320 pixels.
 
